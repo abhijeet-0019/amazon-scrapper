@@ -1,2 +1,4 @@
 #ignore modeules folder
 node_modules
+.env
+notes.txt
